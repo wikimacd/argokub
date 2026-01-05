@@ -19,3 +19,4 @@ spec:
         ports:
         - containerPort: 80
 # Updated for Argo CD demo
+# ready to push
